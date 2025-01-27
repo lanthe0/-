@@ -63,7 +63,7 @@ class SmallHeap{
         }
 
         void test(){
-            for(int i=0;i<=5;i++)
+            for(int i=0;i<=HeapSize;i++)
             std::cout<<heap[i]<<" ";
             puts("");
         }
