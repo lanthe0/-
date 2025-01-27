@@ -1,0 +1,1 @@
+{"name":"Local: 并查集","url":"c:\\Users\\Administrator\\Desktop\\模版\\并查集.cpp","tests":[{"id":1737746399116,"input":"1 2\n3 4\n7 3\n-1 -1\n4 7\n4 1\n2 3\n1 2\n-1 -1\n1 2 3 4 5 6 7 -1","output":"Yes\nNo\nNo\nYes\n2 2 3 3 1 1 3\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Administrator\\Desktop\\模版\\并查集.cpp","group":"local","local":true}
